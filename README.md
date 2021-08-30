@@ -5,5 +5,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wogud0501&theme=cobalt)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wogud0501&theme=cobalt)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wogud0501)](https://github.com/anuraghazra/github-readme-stats)
+
 
