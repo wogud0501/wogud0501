@@ -10,3 +10,5 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=site&show_owner=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=repos-master&show_owner=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=C&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=JAVA&show_owner=true)
+
