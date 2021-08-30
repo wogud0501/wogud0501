@@ -7,4 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wogud0501&theme=cobalt)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=site&show_owner)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=site&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=repos_master&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=C&show_owner=true)
