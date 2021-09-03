@@ -12,5 +12,5 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=C&show_owner=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=JAVA&show_owner=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wogud0501)](https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wogud0501)
 
