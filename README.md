@@ -6,11 +6,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wogud0501&theme=cobalt&layout=compact)
 
-<div align = center>
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=site&show_owner=true">](https://github.com/wogud0501/site)  
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=repos-master&show_owner=true">](https://github.com/wogud0501/repos-master)  
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=C&show_owner=true">](https://github.com/wogud0501/C)  
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=JAVA&show_owner=true">](https://github.com/wogud0501/JAVA)  
-</div>
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pjh5338)
