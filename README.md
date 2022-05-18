@@ -7,8 +7,8 @@
 
 <h3 align=center>📃 Banners 📃</h2><br/>
 <div width=100% align=center>
-  <img width=455em height=176em src="https://github-readme-stats.vercel.app/api?username=wogud0501&count_private=true&show_icons=true&theme=cobalt" />
-  <img width=385em height=176em src="https://github-readme-stats.vercel.app/api/top-langs/?username=wogud0501&theme=cobalt&layout=compact" />
+  <img width=440em height=176em src="https://github-readme-stats.vercel.app/api?username=wogud0501&count_private=true&show_icons=true&theme=cobalt" />
+  <img width=370em height=176em src="https://github-readme-stats.vercel.app/api/top-langs/?username=wogud0501&theme=cobalt&layout=compact" />
   <img width=500em height=152em src="https://github-readme-stats.vercel.app/api/wakatime?username=pjh5338" />
 </div>
   
