@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @wogud0501  
-- 👀 I’m interested in ... Computer Programming,machine learning and deep leanrning!  
-- 🌱 I’m currently learning ... Computer Programming  
+<div width=100% align=center>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F4EDFF&height=150&section=header&text=wogud0501&fontSize=70&animation=twinkling"/><br/>
+- 👋 Hi, I’m @wogud0501<br/>
+- 👀 I’m interested in ... Computer Programming,machine learning and deep leanrning!<br/>
+- 🌱 I’m currently learning ... Computer Programming<br/>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogud0501&count_private=true&show_icons=true&theme=cobalt)
 
