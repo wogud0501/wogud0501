@@ -15,16 +15,16 @@
 <h3 align=center>📃 Repositories</h2><br/>
 <div width=100% align=center>
   <a herf="https://github.com/wogud0501/site">
-    <img width=418em height=128em src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=site&show_owner=true" />
+    <img width=410em height=128em src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=site&show_owner=true" />
   </a>
   <a herf="https://github.com/wogud0501/repos-master">
-    <img width=418em height=128em src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=repos-master&show_owner=true" />
+    <img width=410em height=128em src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=repos-master&show_owner=true" />
   </a>
   <a herf="https://github.com/wogud0501/C">
-    <img width=418em height=128em src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=C&show_owner=true" />
+    <img width=410em height=128em src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=C&show_owner=true" />
   </a>
   <a herf="https://github.com/wogud0501/JAVA">
-    <img width=418em height=128em src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=JAVA&show_owner=true" />
+    <img width=410em height=128em src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=JAVA&show_owner=true" />
   </a>
 </div>
 
