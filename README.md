@@ -1,4 +1,4 @@
-<h1 align=center>👋 Hi, I’m @wogud0501</h1>
+- 👋 Hi, I’m @wogud0501  
 - 👀 I’m interested in ... Computer Programming,machine learning and deep leanrning!  
 - 🌱 I’m currently learning ... Computer Programming  
 
