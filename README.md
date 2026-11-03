@@ -5,28 +5,6 @@
 - 🌱 I’m currently learning ... Computer Programming<br/>
 </div>
 
-<h3 align=center>📃 Banners 📃</h2><br/>
-<div width=100% align=center>
-  <img width=440em height=176em src="https://github-readme-stats.vercel.app/api?username=wogud0501&count_private=true&show_icons=true&theme=cobalt" />
-  <img width=370em height=176em src="https://github-readme-stats.vercel.app/api/top-langs/?username=wogud0501&theme=cobalt&layout=compact" />
-  <img width=500em height=152em src="https://github-readme-stats.vercel.app/api/wakatime?username=pjh5338" />
-</div>
-  
-<h3 align=center>📃 Repositories</h2><br/>
-<div width=100% align=center>
-  <a herf="https://github.com/wogud0501/site">
-    <img width=410em height=128em src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=site&show_owner=true" />
-  </a>
-  <a herf="https://github.com/wogud0501/repos-master">
-    <img width=410em height=128em src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=repos-master&show_owner=true" />
-  </a>
-  <a herf="https://github.com/wogud0501/C">
-    <img width=410em height=128em src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=C&show_owner=true" />
-  </a>
-  <a herf="https://github.com/wogud0501/JAVA">
-    <img width=410em height=128em src="https://github-readme-stats.vercel.app/api/pin/?username=wogud0501&repo=JAVA&show_owner=true" />
-  </a>
-</div>
 
 <!-- 백준 solved ac 임베딩임, 필요하면 주석 제거후 쓰셈 ㅎㅅㅎ
 <a href="https://solved.ac/qwreey75" tatget="_blank">
